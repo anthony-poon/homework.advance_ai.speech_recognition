@@ -8,14 +8,14 @@ Comparison matrix table: '.\score_matrix.txt' (s1A..s8A x s1B..s8B)
 
 Requirement: 
 	Python3
-	pipe
+	pip
 	numpy
 	pillow
 	
 How to run
 	Install Python3
 	Add installation folder to PATH
-	Install pipe
+	Install pip
 	>> pip install numpy
 	>> pip install pillow
 	>> python main.py
